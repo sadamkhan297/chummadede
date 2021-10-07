@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+body{
+  position: relative;
+  background-color: rgb(162, 162, 212);
+}
+* {
+  box-sizing: border-box;
+  padding: 0px; margin: 0px;
+}
+.main_div{
+  width: 100%;
+  height: auto;
+}
+.center_div{
+  height: 100%;
+  width: 80%;
+  margin: auto;
+}
+.box_div{
+  float: left;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 33.33%;
+}
+.col1{
+  width: 80%;
+ transition: all 0.3s;
+ border-radius: 10px;
+ background-color: rgb(240, 240, 245);
+}
+.col1:hover{
+  transform: scale(1.1);
+}
+.col1 img{
+  width: 100%;
+  border-radius: 10px;
+}
+h2{
+padding: 5px 5px;  
+display: block;
+}
+span{
+  padding: 5px;
+}
+.btn{
+  display: block;
+  background-color: blueviolet;
+  color: white;
+  margin: 10px 5px;
+}

@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/chummadede/static/css/main.47e67166.chunk.css",
+    "main.js": "/chummadede/static/js/main.3e6bbf2a.chunk.js",
+    "main.js.map": "/chummadede/static/js/main.3e6bbf2a.chunk.js.map",
+    "runtime-main.js": "/chummadede/static/js/runtime-main.2d2589df.js",
+    "runtime-main.js.map": "/chummadede/static/js/runtime-main.2d2589df.js.map",
+    "static/js/2.1d69d718.chunk.js": "/chummadede/static/js/2.1d69d718.chunk.js",
+    "static/js/2.1d69d718.chunk.js.map": "/chummadede/static/js/2.1d69d718.chunk.js.map",
+    "index.html": "/chummadede/index.html",
+    "static/css/main.47e67166.chunk.css.map": "/chummadede/static/css/main.47e67166.chunk.css.map",
+    "static/js/2.1d69d718.chunk.js.LICENSE.txt": "/chummadede/static/js/2.1d69d718.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d2589df.js",
+    "static/js/2.1d69d718.chunk.js",
+    "static/css/main.47e67166.chunk.css",
+    "static/js/main.3e6bbf2a.chunk.js"
+  ]
+}
